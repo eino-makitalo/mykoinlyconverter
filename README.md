@@ -1,0 +1,1 @@
+Simple python script to convert Koinly transaction to monthly views in EUR
